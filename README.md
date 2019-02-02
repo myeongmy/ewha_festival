@@ -1,24 +1,21 @@
+# EWHA THE WORLD
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+(2018 이화여대 대동제 부스안내 웹사이트 by  멋쟁이 사자처럼)
+2018.05.17~19 이화여대 대동제 교내 400여개의 부스 위치를 지도와 함께 제공하고 부스 메뉴와 가격 등의 정보를 나타내
+학생들이 축제를 편리하게 즐길 수 있도록 자체 개발함
 
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://ewhafestival-lion14irene.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
+[바로가기] http://ewhafest2018.herokuapp.com/
+-----
+### 기능
+-----
+1. 요일별 축제 부스 위치 제공
+1. 부스 메뉴와 가격 정보 제공
+1. 'SOLD OUT' 기능 - 메뉴가 매진된 부스를 알리기 위함
+1. 검색 - 관심 있는 메뉴를 학생들이 검색 가능
 
 
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### 개발 환경
+-----
+ * 웹 프레임워크 : Ruby on rails
+ * 개발 언어 : Ruby
+ * IDE : Cloud 9
